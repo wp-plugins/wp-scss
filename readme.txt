@@ -1,6 +1,5 @@
 === WP-SCSS ===
 Contributors: connectthink
-Donate link: http://example.com/
 Tags: sass, scss, css
 Plugin URI: https://github.com/ConnectThink/WP-SCSS
 Requires at least: 3.0.1
@@ -41,6 +40,7 @@ Currently there isn't a way to fully support [compass](https://github.com/chrise
     
     
 > `compass / frameworks / compass / stylesheets /
+
 > `@import 'compass';`
 
 
