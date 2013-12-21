@@ -4,7 +4,7 @@ Tags: sass, scss, css
 Plugin URI: https://github.com/ConnectThink/WP-SCSS
 Requires at least: 3.0.1
 Tested up to: 3.8
-Stable tag: 1.1
+Stable tag: 1.1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/copyleft/gpl.html
 
