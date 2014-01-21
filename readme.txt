@@ -59,6 +59,9 @@ If you are having issues with the plugin, create an issue on [github](https://gi
 
 == Changelog ==
 
+= 1.1.3 =
+* Hotfix for a accidental character
+
 = 1.1.2 =
 * Added support for moved wp-content directories
 
