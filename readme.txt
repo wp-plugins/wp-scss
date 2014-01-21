@@ -58,6 +58,8 @@ Make sure your directories are properly defined in the settings. Paths are defin
 If you are having issues with the plugin, create an issue on [github](https://github.com/ConnectThink/WP-SCSS), and we'll do our best to help.
 
 == Changelog ==
+= 1.1.3 =
+* Hotfix for a accidental character
 
 = 1.1.2 =
 * Added support for moved wp-content directories
