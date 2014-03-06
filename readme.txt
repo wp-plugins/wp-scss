@@ -26,6 +26,10 @@ The plugin only compiles when changes have been made to the scss files. Compiles
 
 == Frequently Asked Questions ==
 
+= Can I use a child theme? =
+
+Yes, absolutely. Make sure you define your directories relative to your child theme and that your child theme is active. Otherwise you'll see an error regarding missing directories. 
+
 = How do I @import subfiles =
 
 You can import other scss files into parent files and compile them into a single css file. To do this, use @import as normal in your scss file. All imported file names *must* start with an underscore. Otherwise they will be compiled into their own css file.
